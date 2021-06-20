@@ -1,0 +1,59 @@
+{
+    "cSpell.words": [
+        "Aceitos",
+        "Atualizacao",
+        "Fornecidos",
+        "Modelo",
+        "Objeto",
+        "Publicos",
+        "Recebidos",
+        "Requisitado",
+        "Serializador",
+        "Suportado",
+        "atualizar",
+        "brinquedos",
+        "carregar",
+        "categoria",
+        "colunas",
+        "conte",
+        "conteúdo",
+        "do",
+        "empresa",
+        "encontrado",
+        "filtrar",
+        "foram",
+        "formato",
+        "formatos",
+        "fornecedor",
+        "fornecedores",
+        "inserir",
+        "instancia",
+        "jsontoxml",
+        "listar",
+        "o",
+        "opcoes",
+        "pegar",
+        "ra",
+        "ração",
+        "resultado",
+        "serializar",
+        "validar",
+        "versao"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost:3000",
+            "port": 3306,
+            "driver": "MySQL",
+            "password": "30SimoTony@1988",
+            "username": "root",
+            "database": "petshop",
+            "name": "petshop"
+        }
+    ],
+    "git.ignoreLimitWarning": true
+}
