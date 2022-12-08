@@ -9,9 +9,9 @@
   "author": "Leandro Simonato",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "config": "^3.3.6",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "jsontoxml": "^1.0.1",
     "mysql2": "^2.2.5",
     "sequelize": "^6.6.2"
